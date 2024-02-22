@@ -1,0 +1,45 @@
+.flex{
+    display: flex;
+}
+.align-items{
+    align-items: center;
+}
+.justify-content{
+    justify-content:center;
+}
+h1{
+    
+    font-size: 36px;
+    font-weight: 600;
+}
+h2{
+    
+    font-size: 26px;
+    font-weight: 600;
+}
+h3{
+    
+    font-size: 22px;
+    font-weight: 500;
+}
+.flex-column{
+    flex-direction: column;
+}
+.rowg-1{
+    row-gap: 10px;
+}
+.rowg-2{
+    row-gap: 20px;
+}
+.rowg-3{
+    row-gap: 30px;
+}
+.columng-1{
+    column-gap: 10px;
+}
+.columng-2{
+    column-gap: 20px;
+}
+.columng-3{
+    column-gap: 30px;
+}
